@@ -1,0 +1,1 @@
+{"attributes":[{"trait_type":"Background","value":"Heritage Green"},{"trait_type":"Edition","value":1}],"description":"Example JSON metadata inscription. Any file dropped in assets/ becomes its own inscription — images, JSON, text, HTML.","image":"ipfs://REPLACE_WITH_IMAGE_CID","name":"example-metadata"}
