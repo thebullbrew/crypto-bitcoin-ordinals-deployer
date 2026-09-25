@@ -1,5 +1,7 @@
 # Bitcoin Ordinals Deployer
 
+![banner](assets/banner.jpg)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-Testnet%20%7C%20Mainnet-F7931A.svg)](https://bitcoin.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg)](https://www.typescriptlang.org)
